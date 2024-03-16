@@ -1,0 +1,20 @@
+﻿<Window x:Class="mebel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mebel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Source="/фон.jpg" Stretch="Fill"/>
+        <TextBox x:Name="avtoriz" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="190" FontFamily="Berlin Sans FB" FontSize="22" Height="40" Background="#FFA08D8D"/>
+        <PasswordBox x:Name="password" HorizontalAlignment="Center" Margin="0,242,0,0" VerticalAlignment="Top" Width="190" FontFamily="Berlin Sans FB" FontSize="22" Height="40" Background="#FFA08D8D"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="290" FontFamily="Berlin Sans FB Demi" Text="Магазин Мебели" FontSize="36"/>
+        <Button x:Name="btn_avtoriz" Click="vchod" Content="Войти" Background="#FFA08D8D" HorizontalAlignment="Center" FontFamily="Berlin Sans FB" FontSize="22" Margin="0,304,0,0" VerticalAlignment="Top" Height="35" Width="80" />
+        <TextBlock HorizontalAlignment="Center" Margin="0,139,0,0" TextWrapping="Wrap" Text="Авторизация" VerticalAlignment="Top" Height="35" Width="150" FontFamily="Berlin Sans FB" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Height="26" Margin="45,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="165" FontFamily="Berlin Sans FB" FontSize="22" Foreground="Black" TextAlignment="Center" RenderTransformOrigin="1.043,0.578"><Run Text="Введите логин:  "/><Run Language="ru-ru"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="26" Margin="25,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" FontFamily="Berlin Sans FB" FontSize="22" Foreground="Black" TextAlignment="Center" RenderTransformOrigin="0.496,-0.54"><Run Text="Введите пароль:"/><Run Language="ru-ru"/></TextBlock>
+        <Button x:Name="btn_password" Click="regis" Content="Регистрация" Background="#FFA08D8D" FontFamily="Berlin Sans FB" FontSize="22" HorizontalAlignment="Left" Margin="420,349,0,0" VerticalAlignment="Top" Height="35" Width="145"/>
+    </Grid>
+</Window>

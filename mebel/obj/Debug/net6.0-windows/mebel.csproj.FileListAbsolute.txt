@@ -1,0 +1,192 @@
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\mebel.exe
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\mebel.deps.json
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\mebel.runtimeconfig.json
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\mebel.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\mebel.pdb
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\79910\source\repos\mebel\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.csproj.AssemblyReference.cache
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel_MarkupCompile.cache
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel_MarkupCompile.lref
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.g.resources
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.Properties.Resources.resources
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.csproj.GenerateResource.cache
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.AssemblyInfoInputs.cache
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.AssemblyInfo.cs
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.csproj.CoreCompileInputs.cache
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.csproj.CopyComplete
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.dll
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\refint\mebel.dll
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.pdb
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\mebel.genruntimeconfig.cache
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\ref\mebel.dll
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Win_Mebel.g.cs
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Win_firm.g.cs
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Registration.baml
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Win_Mebel.baml
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Win_firm.baml
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Edit2.g.cs
+C:\Users\79910\source\repos\mebel\obj\Debug\net6.0-windows\Edit2.baml
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\mebel.exe
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\mebel.deps.json
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\mebel.runtimeconfig.json
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\mebel.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\mebel.pdb
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.csproj.AssemblyReference.cache
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Edit2.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Win_firm.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Win_Mebel.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel_MarkupCompile.cache
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel_MarkupCompile.lref
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Edit2.baml
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Registration.baml
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Win_firm.baml
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\Win_Mebel.baml
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.g.resources
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.Properties.Resources.resources
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.csproj.GenerateResource.cache
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.AssemblyInfoInputs.cache
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.AssemblyInfo.cs
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.csproj.CoreCompileInputs.cache
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.csproj.CopyComplete
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\refint\mebel.dll
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.pdb
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\mebel.genruntimeconfig.cache
+C:\Users\a4121\OneDrive\Рабочий стол\mebel\obj\Debug\net6.0-windows\ref\mebel.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\mebel.exe
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\mebel.deps.json
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\mebel.runtimeconfig.json
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\mebel.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\mebel.pdb
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.csproj.AssemblyReference.cache
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Edit2.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Registration.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Win_firm.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Win_Mebel.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel_MarkupCompile.cache
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel_MarkupCompile.lref
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Edit2.baml
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Registration.baml
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Win_firm.baml
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\Win_Mebel.baml
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.g.resources
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.Properties.Resources.resources
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.csproj.GenerateResource.cache
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.AssemblyInfoInputs.cache
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.AssemblyInfo.cs
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.csproj.CoreCompileInputs.cache
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.csproj.CopyComplete
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\refint\mebel.dll
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.pdb
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\mebel.genruntimeconfig.cache
+C:\Users\a4121\OneDrive\Рабочий стол\колледж\mebel\obj\Debug\net6.0-windows\ref\mebel.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\mebel.exe
+C:\колледж\mebel\bin\Debug\net6.0-windows\mebel.deps.json
+C:\колледж\mebel\bin\Debug\net6.0-windows\mebel.runtimeconfig.json
+C:\колледж\mebel\bin\Debug\net6.0-windows\mebel.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\mebel.pdb
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\колледж\mebel\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.csproj.AssemblyReference.cache
+C:\колледж\mebel\obj\Debug\net6.0-windows\Edit.g.cs
+C:\колледж\mebel\obj\Debug\net6.0-windows\Edit2.g.cs
+C:\колледж\mebel\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\колледж\mebel\obj\Debug\net6.0-windows\Registration.g.cs
+C:\колледж\mebel\obj\Debug\net6.0-windows\Win_firm.g.cs
+C:\колледж\mebel\obj\Debug\net6.0-windows\Win_Mebel.g.cs
+C:\колледж\mebel\obj\Debug\net6.0-windows\App.g.cs
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel_MarkupCompile.cache
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel_MarkupCompile.lref
+C:\колледж\mebel\obj\Debug\net6.0-windows\Edit.baml
+C:\колледж\mebel\obj\Debug\net6.0-windows\Edit2.baml
+C:\колледж\mebel\obj\Debug\net6.0-windows\MainWindow.baml
+C:\колледж\mebel\obj\Debug\net6.0-windows\Registration.baml
+C:\колледж\mebel\obj\Debug\net6.0-windows\Win_firm.baml
+C:\колледж\mebel\obj\Debug\net6.0-windows\Win_Mebel.baml
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.g.resources
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.Properties.Resources.resources
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.csproj.GenerateResource.cache
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.GeneratedMSBuildEditorConfig.editorconfig
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.AssemblyInfoInputs.cache
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.AssemblyInfo.cs
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.csproj.CoreCompileInputs.cache
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.csproj.CopyComplete
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.dll
+C:\колледж\mebel\obj\Debug\net6.0-windows\refint\mebel.dll
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.pdb
+C:\колледж\mebel\obj\Debug\net6.0-windows\mebel.genruntimeconfig.cache
+C:\колледж\mebel\obj\Debug\net6.0-windows\ref\mebel.dll
